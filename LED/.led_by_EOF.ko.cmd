@@ -1,0 +1,1 @@
+cmd_/home/jasonleaster/LED/led_by_EOF.ko := arm-linux-ld -EL -r  -T /Jason_with_ARM/linux-3.0.1/scripts/module-common.lds --build-id  -o /home/jasonleaster/LED/led_by_EOF.ko /home/jasonleaster/LED/led_by_EOF.o /home/jasonleaster/LED/led_by_EOF.mod.o
