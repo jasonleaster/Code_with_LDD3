@@ -1,0 +1,2 @@
+/home/jasonleaster/Code_by_Jason/Code_about_LDD3/Procfs_demo/proc_demo.ko
+/home/jasonleaster/Code_by_Jason/Code_about_LDD3/Procfs_demo/proc_demo.o
